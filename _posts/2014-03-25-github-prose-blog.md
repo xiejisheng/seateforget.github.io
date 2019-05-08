@@ -6,7 +6,7 @@ description: github jekyll静态页面自动生成，沉浸式的书写体验，
 
 ## Why github pages + prose.io？
  
-一句话：github jekyll静态页面自动生成，沉浸式的书写体验，git版本控制，夫复何求？
+一句话：**github** jekyll静态页面自动生成，沉浸式的书写体验，git版本控制，夫复何求？
  
 写Blog本身就是一个很随意的行为，但是维护Blog并不是。对于一个写程序的来说，一个可以维护的Blog系统需要
 
@@ -21,3 +21,9 @@ description: github jekyll静态页面自动生成，沉浸式的书写体验，
 还好有了prose.io弥补了这个空缺，于是问题解决了。
 
 ## 到底是个什么样的东西？
+
+测试看下：
+1. first
+second
+second
+third
