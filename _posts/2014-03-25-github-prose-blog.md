@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 天作之和： 用 github + prose 组blog
 description: github jekyll静态页面自动生成，沉浸式的书写体验，git版本控制，夫复何求？
 ---
